@@ -1,6 +1,6 @@
-public class StudentRegisteryTester {
+public class StudentRegistryTester {
     public static void main(String[] args) {
-        StudentRegistery r = new StudentRegistery();
+        StudentRegistry r = new StudentRegistry();
         Student s1 = new Student("Bob", "EEE");
         Student s2 = new Student("Alice", "CSE");
         Student s3 = new Student("A", "BIL");
