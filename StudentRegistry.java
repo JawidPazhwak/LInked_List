@@ -1,4 +1,4 @@
-public class StudentRegistery {
+public class StudentRegistry {
     public Student head;
 
     public void addStudent(Student s){
